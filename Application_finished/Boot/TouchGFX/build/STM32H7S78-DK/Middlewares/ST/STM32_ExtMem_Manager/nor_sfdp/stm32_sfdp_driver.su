@@ -1,0 +1,13 @@
+stm32_sfdp_driver.c:607:45:driver_check_FlagBUSY	24	static
+stm32_sfdp_driver.c:634:38:driver_set_FlagWEL.constprop	24	static
+stm32_sfdp_driver.c:132:38:EXTMEM_DRIVER_NOR_SFDP_Init	40	static
+stm32_sfdp_driver.c:233:38:EXTMEM_DRIVER_NOR_SFDP_DeInit	0	static
+stm32_sfdp_driver.c:239:6:EXTMEM_DRIVER_NOR_SFDP_GetFlashInfo	0	static
+stm32_sfdp_driver.c:255:38:EXTMEM_DRIVER_NOR_SFDP_Write	32	static
+stm32_sfdp_driver.c:425:38:EXTMEM_DRIVER_NOR_SFDP_Read	32	static
+stm32_sfdp_driver.c:446:38:EXTMEM_DRIVER_NOR_SFDP_SectorErase	24	static
+stm32_sfdp_driver.c:525:38:EXTMEM_DRIVER_NOR_SFDP_MassErase	8	static
+stm32_sfdp_driver.c:563:38:EXTMEM_DRIVER_NOR_SFDP_Enable_MemoryMappedMode	16	static
+stm32_sfdp_driver.c:578:38:EXTMEM_DRIVER_NOR_SFDP_Disable_MemoryMappedMode	8	static
+stm32_sfdp_driver.c:658:13:EXTMEM_MemCopy	12	static
+stm32_sfdp_driver.c:325:38:EXTMEM_DRIVER_NOR_SFDP_WriteInMappedMode	24	static

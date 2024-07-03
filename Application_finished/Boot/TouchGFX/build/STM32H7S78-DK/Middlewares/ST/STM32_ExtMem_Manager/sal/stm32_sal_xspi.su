@@ -1,0 +1,14 @@
+stm32_sal_xspi.c:91:19:SAL_XSPI_SetClock	12	static
+stm32_sal_xspi.c:138:19:SAL_XSPI_Init	96	static
+stm32_sal_xspi.c:165:19:SAL_XSPI_MemoryConfig	136	static
+stm32_sal_xspi.c:328:19:SAL_XSPI_GetSFDP	104	static
+stm32_sal_xspi.c:367:19:SAL_XSPI_GetId	96	static
+stm32_sal_xspi.c:666:19:SAL_XSPI_DisableMapMode	0	static
+stm32_sal_xspi.c:686:10:XSPI_FormatCommand	8	static
+stm32_sal_xspi.c:413:19:SAL_XSPI_Read	104	static
+stm32_sal_xspi.c:447:19:SAL_XSPI_Write	104	static
+stm32_sal_xspi.c:483:19:SAL_XSPI_SendCommandAddress	96	static
+stm32_sal_xspi.c:512:19:SAL_XSPI_SendCommand	104	static
+stm32_sal_xspi.c:547:19:SAL_XSPI_CheckStatusRegister	120	static
+stm32_sal_xspi.c:596:19:SAL_XSPI_ConfigureWrappMode	96	static
+stm32_sal_xspi.c:622:19:SAL_XSPI_EnableMapMode	112	static

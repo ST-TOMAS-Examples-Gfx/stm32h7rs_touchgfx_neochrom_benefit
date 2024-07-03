@@ -1,0 +1,9 @@
+stm32_sfdp_data.c:1806:10:sfdp_getfrequencevalue	48	static
+stm32_sfdp_data.c:1824:20:sfdp_read_header	8	static
+stm32_sfdp_data.c:1057:20:SFDP_GetHeader	32	static
+stm32_sfdp_data.c:1866:20:sfdp_get_paraminfo	16	static
+stm32_sfdp_data.c:1092:20:SFDP_CollectData	32	static
+stm32_sfdp_data.c:1159:20:SFDP_MemoryReset	24	static
+stm32_sfdp_data.c:1991:20:sfpd_enter_octal_mode	24	static
+stm32_sfdp_data.c:2080:20:sfpd_set_dummycycle	40	static
+stm32_sfdp_data.c:1302:20:SFDP_BuildGenericDriver	48	static

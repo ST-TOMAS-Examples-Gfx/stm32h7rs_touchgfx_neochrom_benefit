@@ -1,0 +1,5 @@
+stm32_psram_driver.c:149:35:EXTMEM_DRIVER_PSRAM_DeInit	8	static
+stm32_psram_driver.c:156:35:EXTMEM_DRIVER_PSRAM_Enable_MemoryMappedMode	24	static
+stm32_psram_driver.c:180:35:EXTMEM_DRIVER_PSRAM_Disable_MemoryMappedMode	8	static
+stm32_psram_driver.c:207:35:PSRAM_ExecuteCommand	32	static
+stm32_psram_driver.c:84:35:EXTMEM_DRIVER_PSRAM_Init	32	static

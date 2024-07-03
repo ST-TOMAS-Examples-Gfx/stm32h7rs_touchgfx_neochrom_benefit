@@ -1,0 +1,16 @@
+stm32h7rsxx_hal_dma.c:374:19:HAL_DMA_Init	16	static
+stm32h7rsxx_hal_dma.c:458:19:HAL_DMA_DeInit	16	static
+stm32h7rsxx_hal_dma.c:583:19:HAL_DMA_Start	16	static
+stm32h7rsxx_hal_dma.c:638:19:HAL_DMA_Start_IT	12	static
+stm32h7rsxx_hal_dma.c:710:19:HAL_DMA_Abort	16	static
+stm32h7rsxx_hal_dma.c:802:19:HAL_DMA_Abort_IT	0	static
+stm32h7rsxx_hal_dma.c:838:19:HAL_DMA_PollForTransfer	24	static
+stm32h7rsxx_hal_dma.c:1010:6:HAL_DMA_IRQHandler	8	static
+stm32h7rsxx_hal_dma.c:1238:19:HAL_DMA_RegisterCallback	0	static
+stm32h7rsxx_hal_dma.c:1317:19:HAL_DMA_UnRegisterCallback	0	static
+stm32h7rsxx_hal_dma.c:1425:22:HAL_DMA_GetState	0	static
+stm32h7rsxx_hal_dma.c:1437:10:HAL_DMA_GetError	0	static
+stm32h7rsxx_hal_dma.c:1480:19:HAL_DMA_ConfigChannelAttributes	0	static
+stm32h7rsxx_hal_dma.c:1524:19:HAL_DMA_GetConfigChannelAttributes	0	static
+stm32h7rsxx_hal_dma.c:1559:19:HAL_DMA_LockChannelAttributes	0	static
+stm32h7rsxx_hal_dma.c:1591:19:HAL_DMA_GetLockChannelAttributes	0	static

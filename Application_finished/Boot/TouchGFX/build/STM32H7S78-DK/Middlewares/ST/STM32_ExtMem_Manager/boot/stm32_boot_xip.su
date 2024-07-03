@@ -1,0 +1,3 @@
+stm32_boot_xip.c:83:20:MapMemory	8	static
+stm32_boot_xip.c:116:20:JumpToApplication	32	static
+stm32_boot_xip.c:56:20:BOOT_Application	8	static
