@@ -1,4 +1,4 @@
-# STM32H7RSWorkShop-Benefit of NeoChrom Demonstration
+# STM32H7RS-Benefit of NeoChrom Demonstration
 
 The example will guide you through creating a graphical user interface on STM32H7S78-DK which demonstrate the benefit of 
 NeoChrom GPU. We will use TouchGFX designer tool to create this interface which is composed of  two icon that continously 
